@@ -40,6 +40,10 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 ```
 
+## Video Demonstration
+
+https://drive.google.com/file/d/1JAx4X8eqbdGoQZ0hmxQj0uqjFzhKgFnR/view
+
 ## Screenshot
 
 The following video shows an example of the application being used from the command line:
